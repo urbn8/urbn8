@@ -1,0 +1,47 @@
+description = "Default Home layout"
+
+[session]
+security = "all"
+==
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>{{ this.page.title }} | October CMS</title>
+        <meta name="description" content="{{ this.page.meta_description }}">
+        <meta name="title" content="{{ this.page.meta_title }}">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="icon" type="image/png" href="{{ 'assets/images/october.png'|theme }}" />
+        {% styles %}
+        <link href="{{ [ 'assets/css/main.css' ]|theme }}" rel="stylesheet">
+    </head>
+    <body class="landing">
+        <!-- Header -->
+				<header id="header">
+					{% partial "header" %}
+				</header>
+
+
+        <!-- Content -->
+                {% page %}
+
+        <!-- Footer -->
+        <footer id="layout-footer">
+            {% partial "footer" %}
+        </footer>
+        <!-- Scripts -->
+			<script src="{{ [ 
+                         'assets/js/jquery.min.js',
+			             'assets/js/jquery.scrolly.min.js',
+			             'assets/js/jquery.dropotron.min.js',
+			             'assets/js/jquery.scrollex.min.js',
+			             'assets/js/skel.min.js',
+                         'assets/js/util.js',
+                         'assets/js/main.js'
+            ]|theme }}"></script>
+        
+        {% framework extras %}
+        {% scripts %}
+
+    </body>
+</html>

@@ -1,0 +1,30 @@
+1491286750a:1:{s:26:"pages-portfolio/header.htm";a:5:{s:8:"fileName";s:26:"pages-portfolio/header.htm";s:7:"content";s:573:"<div class="lt-row row">
+  <div class="lt-col col s12">
+    <div class="lt-parallax-header parallax-container" style="height: 400px;">
+      <div class="lt-parallax parallax"><img src="{{ 'assets/img/pages/portfolio/header/img-01.jpg'|theme }}" alt="image"></div>
+      <div class="lt-parallax-content">
+        <div class="valign-wrapper" style="height: 400px;">
+          <div class="valign">
+            <h2 class="lt-title">Portfolio</h2>
+            <p class="lt-subtitle flow-text">Our Work</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+";s:5:"mtime";i:1491283000;s:6:"markup";s:572:"<div class="lt-row row">
+  <div class="lt-col col s12">
+    <div class="lt-parallax-header parallax-container" style="height: 400px;">
+      <div class="lt-parallax parallax"><img src="{{ 'assets/img/pages/portfolio/header/img-01.jpg'|theme }}" alt="image"></div>
+      <div class="lt-parallax-content">
+        <div class="valign-wrapper" style="height: 400px;">
+          <div class="valign">
+            <h2 class="lt-title">Portfolio</h2>
+            <p class="lt-subtitle flow-text">Our Work</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>";s:4:"code";N;}}
