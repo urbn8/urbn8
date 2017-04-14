@@ -1,0 +1,304 @@
+1492159305a:1:{s:10:"index3.htm";a:9:{s:8:"fileName";s:10:"index3.htm";s:7:"content";s:16234:"title = "Index3"
+url = "/index3"
+layout = "default"
+is_hidden = 0
+==
+<div id="home" class="pages space-nav">
+    <div id="rev_slider_16_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" data-alias="highlight-carousel16"
+        style="margin:0px auto;background-color:#000000;padding:0px;margin-top:0px;margin-bottom:0px;">
+        <!-- START REVOLUTION SLIDER 5.0.7 fullwidth mode -->
+        <div id="rev_slider_16_1" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.0.7">
+            <ul>
+                <!-- SLIDE  -->
+                <li data-index="rs-51" data-transition="slideoverhorizontal" data-slotamount="7" data-easein="default" data-easeout="default"
+                    data-masterspeed="1500" data-thumb="{{ 'assets/images/hero-img/thumb/1.jpg' | theme }}" data-rotate="0" data-fstransition="fade"
+                    data-fsmasterspeed="1000" data-fsslotamount="7" data-saveperformance="off" data-title="mono magic"
+                    data-description="">
+                    <!-- MAIN IMAGE -->
+                    <img src="{{ 'assets/images/hero-img/proj-1.jpg' | theme }}" alt="" data-bgposition="center bottom" data-bgfit="cover" data-bgrepeat="no-repeat"
+                        data-bgparallax="10" class="rev-slidebg" data-no-retina>
+                    <!-- LAYERS -->
+                    <!-- LAYER NR. 1 -->
+                    <div class="tp-caption carousel-Title tp-resizeme rs-parallaxlevel-0" id="slide-51-layer-1" data-x="['left','left','left','left']"
+                        data-hoffset="['40','40','40','40']" data-y="['top','top','top','top']" data-voffset="['490','490','250','150']"
+                        data-width="364" data-height="133" data-whitespace="normal" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;"
+                        data-transform_out="y:[100%];s:1000;s:1000;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;"
+                        data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="500" data-splitin="none"
+                        data-splitout="none" data-responsive_offset="on" style="z-index: 5; min-width: 364px; max-width: 364px; max-width: 133px; max-width: 133px; white-space: normal;">mono magic
+                    </div>
+                    <!-- LAYER NR. 2 -->
+                    <div class="tp-caption   tp-resizeme rs-parallaxlevel-0" id="slide-51-layer-2" data-x="['left','left','left','left']" data-hoffset="['40','40','40','40']"
+                        data-y="['top','top','top','top']" data-voffset="['627','627','382','282']" data-width="none"
+                        data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="x:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;"
+                        data-transform_out="x:[100%];s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;"
+                        data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="500" data-responsive_offset="on"
+                        style="z-index: 6;"><img src="{{ 'assets/images/whitebar.png' | theme }}" alt="" width="350" height="4" data-ww="" data-hh="" data-no-retina>
+                    </div>
+                    <!-- LAYER NR. 3 -->
+                    <div class="tp-caption carousel-subtitle   tp-resizeme rs-parallaxlevel-0" id="slide-51-layer-3" data-x="['left','left','left','left']"
+                        data-hoffset="['41','41','41','41']" data-y="['top','top','top','top']" data-voffset="['645','645','401','301']"
+                        data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;"
+                        data-transform_hover="o:1;rX:0;rY:0;rZ:0;z:0;s:300;e:Power3.easeInOut;" data-style_hover="c:rgba(255, 255, 255, 0.65);br:0 0 0px 0;cursor:pointer;"
+                        data-transform_in="y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;"
+                        data-transform_out="y:[100%];s:1000;s:1000;" data-mask_in="x:0px;y:0px;" data-mask_out="x:inherit;y:inherit;"
+                        data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 7; white-space: nowrap;">Learn how to balance your city job with nature
+                    </div>
+                </li>
+                <!-- SLIDE  -->
+                <li data-index="rs-52" data-transition="slideoverhorizontal" data-slotamount="7" data-easein="default" data-easeout="default"
+                    data-masterspeed="1500" data-thumb="{{ 'assets/images/hero-img/thumb/2.jpg' | theme }}" data-rotate="0" data-saveperformance="off"
+                    data-title="creative app" data-description="">
+                    <!-- MAIN IMAGE -->
+                    <img src="{{ 'assets/images/hero-img/proj-3.jpg' | theme }}" alt="" data-bgposition="center bottom" data-bgfit="cover" data-bgrepeat="no-repeat"
+                        data-bgparallax="10" class="rev-slidebg" data-no-retina>
+                    <!-- LAYERS -->
+                    <!-- LAYER NR. 1 -->
+                    <div class="tp-caption carousel-Title   tp-resizeme rs-parallaxlevel-0" id="slide-52-layer-1" data-x="['left','left','left','left']"
+                        data-hoffset="['40','40','40','40']" data-y="['top','top','top','top']" data-voffset="['490','490','250','150']"
+                        data-width="['397','397','364','364']" data-height="['none','none','133','133']" data-whitespace="normal"
+                        data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;"
+                        data-transform_out="y:[100%];s:1000;s:1000;" data-mask_in="x:0px;y:0px;" data-mask_out="x:inherit;y:inherit;"
+                        data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 5; min-width: 397px; max-width: 397px; white-space: normal; color: rgba(0, 0, 0, 1.00);">creative app
+                    </div>
+                    <!-- LAYER NR. 2 -->
+                    <div class="tp-caption   tp-resizeme rs-parallaxlevel-0" id="slide-52-layer-2" data-x="['left','left','left','left']" data-hoffset="['40','40','40','40']"
+                        data-y="['top','top','top','top']" data-voffset="['627','627','382','282']" data-width="none"
+                        data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="x:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;"
+                        data-transform_out="x:[100%];s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;"
+                        data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="500" data-responsive_offset="on"
+                        style="z-index: 6;"><img src="{{ 'assets/images/darkbar.png' | theme }}" alt="" width="350" height="4" data-ww="" data-hh="" data-no-retina>
+                    </div>
+                    <!-- LAYER NR. 3 -->
+                    <div class="tp-caption carousel-subtitle   tp-resizeme rs-parallaxlevel-0" id="slide-52-layer-3" data-x="['left','left','left','left']"
+                        data-hoffset="['41','41','41','41']" data-y="['top','top','top','top']" data-voffset="['645','645','401','301']"
+                        data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;"
+                        data-transform_hover="o:1;rX:0;rY:0;rZ:0;z:0;s:300;e:Power3.easeInOut;" data-style_hover="c:rgba(0, 0, 0, 0.65);br:0 0 0px 0;cursor:pointer;"
+                        data-transform_in="y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;"
+                        data-transform_out="y:[100%];s:1000;s:1000;" data-mask_in="x:0px;y:0px;" data-mask_out="x:inherit;y:inherit;"
+                        data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 7; white-space: nowrap; color: rgba(0, 0, 0, 1.00);">the creative app workflow
+                    </div>
+                </li>
+                <!-- SLIDE  -->
+                <li data-index="rs-53" data-transition="slideoverhorizontal" data-slotamount="7" data-easein="default" data-easeout="default"
+                    data-masterspeed="1500" data-thumb="{{ 'assets/images/hero-img/thumb/3.jpg' | theme }}" data-rotate="0" data-saveperformance="off"
+                    data-title="the cover" data-description="">
+                    <!-- MAIN IMAGE -->
+                    <img src="{{ 'assets/images/hero-img/proj-4.jpg' | theme }}" alt="" data-bgposition="center bottom" data-bgfit="cover" data-bgrepeat="no-repeat"
+                        data-bgparallax="10" class="rev-slidebg" data-no-retina>
+                    <!-- LAYERS -->
+                    <!-- LAYER NR. 1 -->
+                    <div class="tp-caption carousel-Title   tp-resizeme rs-parallaxlevel-0" id="slide-53-layer-1" data-x="['left','left','left','left']"
+                        data-hoffset="['40','40','40','40']" data-y="['top','top','top','top']" data-voffset="['490','490','250','150']"
+                        data-width="450" data-height="133" data-whitespace="normal" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;"
+                        data-transform_out="y:[100%];s:1000;s:1000;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;"
+                        data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="500" data-splitin="none"
+                        data-splitout="none" data-responsive_offset="on" style="z-index: 5; min-width: 364px; max-width: 364px; max-width: 133px; max-width: 133px; white-space: normal; color: rgba(0, 0, 0, 1.00);">john doe cover
+                    </div>
+                    <!-- LAYER NR. 2 -->
+                    <div class="tp-caption   tp-resizeme rs-parallaxlevel-0" id="slide-53-layer-2" data-x="['left','left','left','left']" data-hoffset="['40','40','40','40']"
+                        data-y="['top','top','top','top']" data-voffset="['627','627','382','282']" data-width="none"
+                        data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="x:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;"
+                        data-transform_out="x:[100%];s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;"
+                        data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="500" data-responsive_offset="on"
+                        style="z-index: 6;"><img src="{{ 'assets/images/darkbar.png' | theme }}" alt="" width="350" height="4" data-ww="" data-hh="" data-no-retina>
+                    </div>
+                    <!-- LAYER NR. 3 -->
+                    <div class="tp-caption carousel-subtitle   tp-resizeme rs-parallaxlevel-0" id="slide-53-layer-3" data-x="['left','left','left','left']"
+                        data-hoffset="['41','41','41','41']" data-y="['top','top','top','top']" data-voffset="['645','645','401','301']"
+                        data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;"
+                        data-transform_hover="o:1;rX:0;rY:0;rZ:0;z:0;s:300;e:Power3.easeInOut;" data-style_hover="c:rgba(255, 255, 255, 0.65);br:0 0 0px 0;cursor:pointer;"
+                        data-transform_in="y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;"
+                        data-transform_out="y:[100%];s:1000;s:1000;" data-mask_in="x:0px;y:0px;" data-mask_out="x:inherit;y:inherit;"
+                        data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 7; white-space: nowrap;color: rgba(0, 0, 0, 1.00);">the new album cover design
+                    </div>
+                </li>
+                <!-- SLIDE  -->
+                <li data-index="rs-54" data-transition="slideoverhorizontal" data-slotamount="7" data-easein="default" data-easeout="default"
+                    data-masterspeed="1500" data-thumb="{{ 'assets/images/hero-img/thumb/4.jpg' | theme }}" data-rotate="0" data-saveperformance="off"
+                    data-title="gse" data-description="">
+                    <!-- MAIN IMAGE -->
+                    <img src="{{ 'assets/images/hero-img/proj-6.jpg' | theme }}" alt="" data-bgposition="center bottom" data-bgfit="cover" data-bgrepeat="no-repeat"
+                        data-bgparallax="10" class="rev-slidebg" data-no-retina>
+                    <!-- LAYERS -->
+                    <!-- LAYER NR. 1 -->
+                    <div class="tp-caption carousel-Title   tp-resizeme rs-parallaxlevel-0" id="slide-54-layer-1" data-x="['left','left','left','left']"
+                        data-hoffset="['40','40','40','40']" data-y="['top','top','top','top']" data-voffset="['490','490','250','150']"
+                        data-width="364" data-height="133" data-whitespace="normal" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;"
+                        data-transform_out="y:[100%];s:1000;s:1000;" data-mask_in="x:0px;y:0px;" data-mask_out="x:inherit;y:inherit;"
+                        data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 5; min-width: 364px; max-width: 364px; max-width: 133px; max-width: 133px; white-space: normal;color: rgba(0, 0, 0, 1.00);">gse identity
+                    </div>
+                    <!-- LAYER NR. 2 -->
+                    <div class="tp-caption   tp-resizeme rs-parallaxlevel-0" id="slide-54-layer-2" data-x="['left','left','left','left']" data-hoffset="['40','40','40','40']"
+                        data-y="['top','top','top','top']" data-voffset="['627','627','382','282']" data-width="none"
+                        data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="x:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;"
+                        data-transform_out="x:[100%];s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;"
+                        data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="500" data-responsive_offset="on"
+                        style="z-index: 6;"><img src="{{ 'assets/images/darkbar.png' | theme }}" alt="" width="350" height="4" data-ww="" data-hh="" data-no-retina>
+                    </div>
+                    <!-- LAYER NR. 3 -->
+                    <div class="tp-caption carousel-subtitle   tp-resizeme rs-parallaxlevel-0" id="slide-54-layer-3" data-x="['left','left','left','left']"
+                        data-hoffset="['41','41','41','41']" data-y="['top','top','top','top']" data-voffset="['645','645','401','301']"
+                        data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;"
+                        data-transform_hover="o:1;rX:0;rY:0;rZ:0;z:0;s:300;e:Power3.easeInOut;" data-style_hover="c:rgba(255, 255, 255, 0.65);br:0 0 0px 0;cursor:pointer;"
+                        data-transform_in="y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;"
+                        data-transform_out="y:[100%];s:1000;s:1000;" data-mask_in="x:0px;y:0px;" data-mask_out="x:inherit;y:inherit;"
+                        data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 7; white-space: nowrap;color: rgba(0, 0, 0, 1.00);">Take off with top speed. Get Slider Revolution
+                    </div>
+                </li>
+            </ul>
+            <div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>
+        </div>
+    </div>
+    <!-- END REVOLUTION SLIDER -->
+</div>
+<!-- end home -->
+{% partial 'index' %}";s:5:"mtime";i:1492060644;s:6:"markup";s:16165:"<div id="home" class="pages space-nav">
+    <div id="rev_slider_16_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" data-alias="highlight-carousel16"
+        style="margin:0px auto;background-color:#000000;padding:0px;margin-top:0px;margin-bottom:0px;">
+        <!-- START REVOLUTION SLIDER 5.0.7 fullwidth mode -->
+        <div id="rev_slider_16_1" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.0.7">
+            <ul>
+                <!-- SLIDE  -->
+                <li data-index="rs-51" data-transition="slideoverhorizontal" data-slotamount="7" data-easein="default" data-easeout="default"
+                    data-masterspeed="1500" data-thumb="{{ 'assets/images/hero-img/thumb/1.jpg' | theme }}" data-rotate="0" data-fstransition="fade"
+                    data-fsmasterspeed="1000" data-fsslotamount="7" data-saveperformance="off" data-title="mono magic"
+                    data-description="">
+                    <!-- MAIN IMAGE -->
+                    <img src="{{ 'assets/images/hero-img/proj-1.jpg' | theme }}" alt="" data-bgposition="center bottom" data-bgfit="cover" data-bgrepeat="no-repeat"
+                        data-bgparallax="10" class="rev-slidebg" data-no-retina>
+                    <!-- LAYERS -->
+                    <!-- LAYER NR. 1 -->
+                    <div class="tp-caption carousel-Title tp-resizeme rs-parallaxlevel-0" id="slide-51-layer-1" data-x="['left','left','left','left']"
+                        data-hoffset="['40','40','40','40']" data-y="['top','top','top','top']" data-voffset="['490','490','250','150']"
+                        data-width="364" data-height="133" data-whitespace="normal" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;"
+                        data-transform_out="y:[100%];s:1000;s:1000;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;"
+                        data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="500" data-splitin="none"
+                        data-splitout="none" data-responsive_offset="on" style="z-index: 5; min-width: 364px; max-width: 364px; max-width: 133px; max-width: 133px; white-space: normal;">mono magic
+                    </div>
+                    <!-- LAYER NR. 2 -->
+                    <div class="tp-caption   tp-resizeme rs-parallaxlevel-0" id="slide-51-layer-2" data-x="['left','left','left','left']" data-hoffset="['40','40','40','40']"
+                        data-y="['top','top','top','top']" data-voffset="['627','627','382','282']" data-width="none"
+                        data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="x:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;"
+                        data-transform_out="x:[100%];s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;"
+                        data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="500" data-responsive_offset="on"
+                        style="z-index: 6;"><img src="{{ 'assets/images/whitebar.png' | theme }}" alt="" width="350" height="4" data-ww="" data-hh="" data-no-retina>
+                    </div>
+                    <!-- LAYER NR. 3 -->
+                    <div class="tp-caption carousel-subtitle   tp-resizeme rs-parallaxlevel-0" id="slide-51-layer-3" data-x="['left','left','left','left']"
+                        data-hoffset="['41','41','41','41']" data-y="['top','top','top','top']" data-voffset="['645','645','401','301']"
+                        data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;"
+                        data-transform_hover="o:1;rX:0;rY:0;rZ:0;z:0;s:300;e:Power3.easeInOut;" data-style_hover="c:rgba(255, 255, 255, 0.65);br:0 0 0px 0;cursor:pointer;"
+                        data-transform_in="y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;"
+                        data-transform_out="y:[100%];s:1000;s:1000;" data-mask_in="x:0px;y:0px;" data-mask_out="x:inherit;y:inherit;"
+                        data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 7; white-space: nowrap;">Learn how to balance your city job with nature
+                    </div>
+                </li>
+                <!-- SLIDE  -->
+                <li data-index="rs-52" data-transition="slideoverhorizontal" data-slotamount="7" data-easein="default" data-easeout="default"
+                    data-masterspeed="1500" data-thumb="{{ 'assets/images/hero-img/thumb/2.jpg' | theme }}" data-rotate="0" data-saveperformance="off"
+                    data-title="creative app" data-description="">
+                    <!-- MAIN IMAGE -->
+                    <img src="{{ 'assets/images/hero-img/proj-3.jpg' | theme }}" alt="" data-bgposition="center bottom" data-bgfit="cover" data-bgrepeat="no-repeat"
+                        data-bgparallax="10" class="rev-slidebg" data-no-retina>
+                    <!-- LAYERS -->
+                    <!-- LAYER NR. 1 -->
+                    <div class="tp-caption carousel-Title   tp-resizeme rs-parallaxlevel-0" id="slide-52-layer-1" data-x="['left','left','left','left']"
+                        data-hoffset="['40','40','40','40']" data-y="['top','top','top','top']" data-voffset="['490','490','250','150']"
+                        data-width="['397','397','364','364']" data-height="['none','none','133','133']" data-whitespace="normal"
+                        data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;"
+                        data-transform_out="y:[100%];s:1000;s:1000;" data-mask_in="x:0px;y:0px;" data-mask_out="x:inherit;y:inherit;"
+                        data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 5; min-width: 397px; max-width: 397px; white-space: normal; color: rgba(0, 0, 0, 1.00);">creative app
+                    </div>
+                    <!-- LAYER NR. 2 -->
+                    <div class="tp-caption   tp-resizeme rs-parallaxlevel-0" id="slide-52-layer-2" data-x="['left','left','left','left']" data-hoffset="['40','40','40','40']"
+                        data-y="['top','top','top','top']" data-voffset="['627','627','382','282']" data-width="none"
+                        data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="x:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;"
+                        data-transform_out="x:[100%];s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;"
+                        data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="500" data-responsive_offset="on"
+                        style="z-index: 6;"><img src="{{ 'assets/images/darkbar.png' | theme }}" alt="" width="350" height="4" data-ww="" data-hh="" data-no-retina>
+                    </div>
+                    <!-- LAYER NR. 3 -->
+                    <div class="tp-caption carousel-subtitle   tp-resizeme rs-parallaxlevel-0" id="slide-52-layer-3" data-x="['left','left','left','left']"
+                        data-hoffset="['41','41','41','41']" data-y="['top','top','top','top']" data-voffset="['645','645','401','301']"
+                        data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;"
+                        data-transform_hover="o:1;rX:0;rY:0;rZ:0;z:0;s:300;e:Power3.easeInOut;" data-style_hover="c:rgba(0, 0, 0, 0.65);br:0 0 0px 0;cursor:pointer;"
+                        data-transform_in="y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;"
+                        data-transform_out="y:[100%];s:1000;s:1000;" data-mask_in="x:0px;y:0px;" data-mask_out="x:inherit;y:inherit;"
+                        data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 7; white-space: nowrap; color: rgba(0, 0, 0, 1.00);">the creative app workflow
+                    </div>
+                </li>
+                <!-- SLIDE  -->
+                <li data-index="rs-53" data-transition="slideoverhorizontal" data-slotamount="7" data-easein="default" data-easeout="default"
+                    data-masterspeed="1500" data-thumb="{{ 'assets/images/hero-img/thumb/3.jpg' | theme }}" data-rotate="0" data-saveperformance="off"
+                    data-title="the cover" data-description="">
+                    <!-- MAIN IMAGE -->
+                    <img src="{{ 'assets/images/hero-img/proj-4.jpg' | theme }}" alt="" data-bgposition="center bottom" data-bgfit="cover" data-bgrepeat="no-repeat"
+                        data-bgparallax="10" class="rev-slidebg" data-no-retina>
+                    <!-- LAYERS -->
+                    <!-- LAYER NR. 1 -->
+                    <div class="tp-caption carousel-Title   tp-resizeme rs-parallaxlevel-0" id="slide-53-layer-1" data-x="['left','left','left','left']"
+                        data-hoffset="['40','40','40','40']" data-y="['top','top','top','top']" data-voffset="['490','490','250','150']"
+                        data-width="450" data-height="133" data-whitespace="normal" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;"
+                        data-transform_out="y:[100%];s:1000;s:1000;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;"
+                        data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="500" data-splitin="none"
+                        data-splitout="none" data-responsive_offset="on" style="z-index: 5; min-width: 364px; max-width: 364px; max-width: 133px; max-width: 133px; white-space: normal; color: rgba(0, 0, 0, 1.00);">john doe cover
+                    </div>
+                    <!-- LAYER NR. 2 -->
+                    <div class="tp-caption   tp-resizeme rs-parallaxlevel-0" id="slide-53-layer-2" data-x="['left','left','left','left']" data-hoffset="['40','40','40','40']"
+                        data-y="['top','top','top','top']" data-voffset="['627','627','382','282']" data-width="none"
+                        data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="x:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;"
+                        data-transform_out="x:[100%];s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;"
+                        data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="500" data-responsive_offset="on"
+                        style="z-index: 6;"><img src="{{ 'assets/images/darkbar.png' | theme }}" alt="" width="350" height="4" data-ww="" data-hh="" data-no-retina>
+                    </div>
+                    <!-- LAYER NR. 3 -->
+                    <div class="tp-caption carousel-subtitle   tp-resizeme rs-parallaxlevel-0" id="slide-53-layer-3" data-x="['left','left','left','left']"
+                        data-hoffset="['41','41','41','41']" data-y="['top','top','top','top']" data-voffset="['645','645','401','301']"
+                        data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;"
+                        data-transform_hover="o:1;rX:0;rY:0;rZ:0;z:0;s:300;e:Power3.easeInOut;" data-style_hover="c:rgba(255, 255, 255, 0.65);br:0 0 0px 0;cursor:pointer;"
+                        data-transform_in="y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;"
+                        data-transform_out="y:[100%];s:1000;s:1000;" data-mask_in="x:0px;y:0px;" data-mask_out="x:inherit;y:inherit;"
+                        data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 7; white-space: nowrap;color: rgba(0, 0, 0, 1.00);">the new album cover design
+                    </div>
+                </li>
+                <!-- SLIDE  -->
+                <li data-index="rs-54" data-transition="slideoverhorizontal" data-slotamount="7" data-easein="default" data-easeout="default"
+                    data-masterspeed="1500" data-thumb="{{ 'assets/images/hero-img/thumb/4.jpg' | theme }}" data-rotate="0" data-saveperformance="off"
+                    data-title="gse" data-description="">
+                    <!-- MAIN IMAGE -->
+                    <img src="{{ 'assets/images/hero-img/proj-6.jpg' | theme }}" alt="" data-bgposition="center bottom" data-bgfit="cover" data-bgrepeat="no-repeat"
+                        data-bgparallax="10" class="rev-slidebg" data-no-retina>
+                    <!-- LAYERS -->
+                    <!-- LAYER NR. 1 -->
+                    <div class="tp-caption carousel-Title   tp-resizeme rs-parallaxlevel-0" id="slide-54-layer-1" data-x="['left','left','left','left']"
+                        data-hoffset="['40','40','40','40']" data-y="['top','top','top','top']" data-voffset="['490','490','250','150']"
+                        data-width="364" data-height="133" data-whitespace="normal" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;"
+                        data-transform_out="y:[100%];s:1000;s:1000;" data-mask_in="x:0px;y:0px;" data-mask_out="x:inherit;y:inherit;"
+                        data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 5; min-width: 364px; max-width: 364px; max-width: 133px; max-width: 133px; white-space: normal;color: rgba(0, 0, 0, 1.00);">gse identity
+                    </div>
+                    <!-- LAYER NR. 2 -->
+                    <div class="tp-caption   tp-resizeme rs-parallaxlevel-0" id="slide-54-layer-2" data-x="['left','left','left','left']" data-hoffset="['40','40','40','40']"
+                        data-y="['top','top','top','top']" data-voffset="['627','627','382','282']" data-width="none"
+                        data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="x:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;"
+                        data-transform_out="x:[100%];s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;"
+                        data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="500" data-responsive_offset="on"
+                        style="z-index: 6;"><img src="{{ 'assets/images/darkbar.png' | theme }}" alt="" width="350" height="4" data-ww="" data-hh="" data-no-retina>
+                    </div>
+                    <!-- LAYER NR. 3 -->
+                    <div class="tp-caption carousel-subtitle   tp-resizeme rs-parallaxlevel-0" id="slide-54-layer-3" data-x="['left','left','left','left']"
+                        data-hoffset="['41','41','41','41']" data-y="['top','top','top','top']" data-voffset="['645','645','401','301']"
+                        data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;"
+                        data-transform_hover="o:1;rX:0;rY:0;rZ:0;z:0;s:300;e:Power3.easeInOut;" data-style_hover="c:rgba(255, 255, 255, 0.65);br:0 0 0px 0;cursor:pointer;"
+                        data-transform_in="y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;"
+                        data-transform_out="y:[100%];s:1000;s:1000;" data-mask_in="x:0px;y:0px;" data-mask_out="x:inherit;y:inherit;"
+                        data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 7; white-space: nowrap;color: rgba(0, 0, 0, 1.00);">Take off with top speed. Get Slider Revolution
+                    </div>
+                </li>
+            </ul>
+            <div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>
+        </div>
+    </div>
+    <!-- END REVOLUTION SLIDER -->
+</div>
+<!-- end home -->
+{% partial 'index' %}";s:4:"code";N;s:5:"title";s:6:"Index3";s:3:"url";s:7:"/index3";s:6:"layout";s:7:"default";s:9:"is_hidden";s:1:"0";}}
